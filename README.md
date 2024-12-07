@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi there! <br>I'm Mandar, Second-year Computer Science and Engineering student<br><br>I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.<br><br>Outside of work, I am passionate about expanding my knowledge of the tech world. I also work on numerous side projects.<br><br>Fun Facts:<br>I'm not too fond of tea.<br>Outside of coding, I enjoy reading and playing guitar.<br>Demon Slayer is my favorite anime.
+Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+<br>I'm Mandar, Second-year Computer Science and Engineering student<br><br>I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.<br><br>Outside of work, I am passionate about expanding my knowledge of the tech world. I also work on numerous side projects.<br><br>Fun Facts:<br>I'm not too fond of tea.<br>Outside of coding, I enjoy reading and playing guitar.<br>Demon Slayer is my favorite anime.
 
 
 ## 🌐 Socials:
